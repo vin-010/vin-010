@@ -1,7 +1,5 @@
 <h3 align="center">What's Up!!! 👋! I am Pravin (Aspiring Data Analyst)</h3>
 
-###
-
 <br clear="both">
 
 <p align="left">I specialize in SQL, Python, Excel, and Tableau to uncover trends and build data-driven solutions. With a passion for simplifying complex data for non-technical teams, I aim to bridge the gap between data and decision-making, helping organizations drive real-world impact. Always curious, I’m excited to explore new challenges and collaborate on innovative projects.</p>
@@ -10,7 +8,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vin-010/vin-010/output/snake.svg" alt="Snake animation" />
+
  <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/pravin-silwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-silwal" height="30" width="40" /></a>
@@ -99,3 +97,9 @@
 </div>
 
 ###
+
+
+
+
+
+     
